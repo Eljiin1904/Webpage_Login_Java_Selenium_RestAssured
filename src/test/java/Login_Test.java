@@ -12,7 +12,7 @@ public class Login_Test {
 
 
 //Chrome driver Path
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\eljin\\Downloads\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\chromedriver_path_here");
         ChromeDriver driver = new ChromeDriver();
 
 //Launching the Site
